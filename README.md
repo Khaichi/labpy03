@@ -1,9 +1,8 @@
 # labpy03
 # LATIHAN 1
-
 ![](https://github.com/Khaichi/labpy03/blob/master/gambarcodinglatihan1.png)
 
-- Codingan
+## Codingan
 ```print('==== Bilangan Acak yang lebih kecil dari 0.5 ====')
 print(' ')
 import random
@@ -22,16 +21,16 @@ while jawab == "lanjutkan":
     jawab = input('Ingin Mengulang ? (yes/no) : ')
     if jawab == "Lanjutkan":
         break
-print('Total perulangan : ' + str (hitung))```
+print('Total perulangan : ' + str (hitung))
+```
 
-Hasil Codingan
-
+### Hasil Codingan
 ![](https://github.com/Khaichi/labpy03/blob/master/hasilcoding1.png)
 
 # LATIHAN 2
 ![](https://github.com/Khaichi/labpy03/blob/master/gambarcodinglatihan2.png)
 
-- Codingan
+## Codingan
 ```print("\nMenentukan Bilangan Terbesar")
 print("\n")
 max=0
@@ -42,15 +41,16 @@ while True:
     if a==0:
         break
 print("Bilangan Terbesar = ", max)
-input("\n")```
+input("\n")
+```
 
-Hasil Codingan
+### Hasil Codingan
 ![](https://github.com/Khaichi/labpy03/blob/master/hasilcoding2.png)
 
 # LATIHAN 3
 ![](https://github.com/Khaichi/labpy03/blob/master/gambarcodinglatihan3.png)
 
-- Codingan
+## Codingan
 ```print("Menghitung laba perusahaan dengan modal awal Rp 100.000.000")
 print("")
 print('note')
@@ -75,8 +75,8 @@ for x in range(0,9):
                 print("laba bulan ke-",x," :",e)
 total = b+b+c+c+d+d+d+e
 print("\ntotal : ", total)
+```
 
-
-Hasil Codingan
+### Hasil Codingan
 ![](https://github.com/Khaichi/labpy03/blob/master/hasilcoding3.png)
 
