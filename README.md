@@ -24,4 +24,5 @@ while jawab == "lanjutkan":
         break
 print('Total perulangan : ' + str (hitung))
 
-# Latihan2
+Hasil Codingan
+
