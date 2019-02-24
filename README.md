@@ -116,7 +116,7 @@ dieksekusi sampai seluruh urutan habis.
 
 ## >PRINT
 
-![](https://github.com/Khaichi/labpy03/blob/master/printlatihan03.png
+![](https://github.com/Khaichi/labpy03/blob/master/printlatihan03.png)
 
 Untuk menampilkan objek ke perangkat pengeluaran.
 
